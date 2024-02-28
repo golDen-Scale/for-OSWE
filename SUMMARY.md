@@ -3,11 +3,14 @@
 ## 0️⃣ 基础 - BASIC
 
 * [📝 MEMO.](README.md)
-* [Page 1](ji-chu-basic/page-1.md)
+* [✔️ JavaScript](ji-chu-basic/javascript.md)
+* [✔️ Node.js](ji-chu-basic/node.js.md)
+* [✔️ Python](ji-chu-basic/python.md)
+* [✔️ SQL](ji-chu-basic/sql.md)
 
 ## 1️⃣ 进阶 - INTERMEDIATE
 
-* [Page 2](jin-jie-intermediate/page-2.md)
+* [✔️ SQL注入 - SQL Injection](jin-jie-intermediate/sql-zhu-ru-sql-injection.md)
 
 ## 2️⃣ 高级 - ADVANCED
 
