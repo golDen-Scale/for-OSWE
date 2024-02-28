@@ -10,6 +10,7 @@
 
 ## 1️⃣ 进阶 - INTERMEDIATE
 
+* [✔️ XSS](jin-jie-intermediate/xss.md)
 * [✔️ SQL注入 - SQL Injection](jin-jie-intermediate/sql-zhu-ru-sql-injection.md)
 
 ## 2️⃣ 高级 - ADVANCED
