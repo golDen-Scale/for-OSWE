@@ -11,6 +11,7 @@
 ## 1️⃣ 进阶 - INTERMEDIATE
 
 * [✔️ 路径遍历 - Path Traversal](jin-jie-intermediate/lu-jing-bian-li-path-traversal.md)
+* [✔️ 文件上传 - File upload](jin-jie-intermediate/wen-jian-shang-chuan-file-upload.md)
 * [✔️ XSS](jin-jie-intermediate/xss.md)
 * [✔️ SSRF](jin-jie-intermediate/ssrf.md)
 * [✔️ SQL注入 - SQL Injection](jin-jie-intermediate/sql-zhu-ru-sql-injection.md)
