@@ -1,24 +1,24 @@
 # Table of contents
 
-## 0️⃣ 基础 - BASIC
+## 0️⃣ 基础 - BASIC <a href="#basic" id="basic"></a>
 
 * [📝 MEMO.](README.md)
-* [✔️ JavaScript](ji-chu-basic/javascript.md)
-* [✔️ Node.js](ji-chu-basic/node.js.md)
-* [✔️ Python](ji-chu-basic/python.md)
-* [✔️ SQL](ji-chu-basic/sql.md)
+* [✔️ JavaScript](basic/javascript.md)
+* [✔️ Node.js](basic/node.js.md)
+* [✔️ Python](basic/python.md)
+* [✔️ SQL](basic/sql.md)
 
-## 1️⃣ 进阶 - INTERMEDIATE
+## 1️⃣ 进阶 - INTERMEDIATE <a href="#intermediate" id="intermediate"></a>
 
-* [✔️ 路径遍历 - Path Traversal](jin-jie-intermediate/lu-jing-bian-li-path-traversal.md)
-* [✔️ 文件上传 - File upload](jin-jie-intermediate/wen-jian-shang-chuan-file-upload.md)
-* [✔️ XSS](jin-jie-intermediate/xss.md)
-* [✔️ SSRF](jin-jie-intermediate/ssrf.md)
-* [✔️ SQL注入 - SQL Injection](jin-jie-intermediate/sql-zhu-ru-sql-injection.md)
+* [✔️ 路径遍历 - Path Traversal](intermediate/lu-jing-bian-li-path-traversal.md)
+* [✔️ 文件上传 - File upload](intermediate/wen-jian-shang-chuan-file-upload.md)
+* [✔️ XSS](intermediate/xss.md)
+* [✔️ SSRF](intermediate/ssrf.md)
+* [✔️ SQL注入 - SQL Injection](intermediate/sql-zhu-ru-sql-injection.md)
 
-## 2️⃣ 高级 - ADVANCED
+## 2️⃣ 高级 - ADVANCED <a href="#advanced" id="advanced"></a>
 
-* [Page 3](gao-ji-advanced/page-3.md)
+* [Page 3](advanced/page-3.md)
 
 ## 3️⃣ HackTheBox
 
@@ -28,10 +28,14 @@
 
 * [✔️ Markers](offsec/markers.md)
 
-## 5️⃣ 工具 - TOOLS
+## 5️⃣ 工具 - TOOLS <a href="#tools" id="tools"></a>
 
-* [Page 6](gong-ju-tools/page-6.md)
+* [Page 6](tools/page-6.md)
 
-## 6️⃣ 漏洞 - Vulnerabilities
+## 6️⃣ 漏洞 - Vulnerabilities <a href="#vulnerabilities" id="vulnerabilities"></a>
 
-* [Page 7](lou-dong-vulnerabilities/page-7.md)
+* [Page 7](vulnerabilities/page-7.md)
+
+## 7️⃣ 自动化脚本 - Scripts <a href="#scripts" id="scripts"></a>
+
+* [✔️ 编写 SQL Server 漏洞利用程序进行 RCE](scripts/bian-xie-sql-server-lou-dong-li-yong-cheng-xu-jin-hang-rce.md)
