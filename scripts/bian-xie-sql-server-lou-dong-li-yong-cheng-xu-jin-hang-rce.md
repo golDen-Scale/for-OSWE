@@ -1,5 +1,5 @@
 ---
-description: Python / Microsoft SQL Server
+description: Python / Microsoft SQL Server / xp_cmdshell
 ---
 
 # ✔️ 编写 SQL Server 漏洞利用程序进行 RCE
@@ -55,9 +55,14 @@ if __name__ == '__main__':
 
 </code></pre>
 
-## MEMO.
+## 用法
 
+1. Kali主机上监听443端口
+2. kali主机上找到存储nc.exe的目录，并在此目录下开启Python服务器
+3. kali主机上直接运行该脚本，执行成功会在监听443端口的窗口出现反弹shell
 
-
-
+{% hint style="info" %}
+* 该脚本所有操作均在攻方的Kali主机上完成，但是利用该脚本的先决条件是已拥有了目标系统中内置账户sa的密码。
+* 空服务账户没有对C:\Windows\system32目录的写入权限，但是对C:/users/public有写入权限。
+{% endhint %}
 
