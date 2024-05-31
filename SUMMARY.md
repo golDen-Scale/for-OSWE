@@ -38,4 +38,4 @@
 
 ## 7️⃣ 自动化脚本 - Scripts <a href="#scripts" id="scripts"></a>
 
-* [✔️ 编写 SQL Server 漏洞利用程序进行 RCE](scripts/bian-xie-sql-server-lou-dong-li-yong-cheng-xu-jin-hang-rce.md)
+* [✔️ 编写 SQL Server 漏洞利用程序进行 RCE](scripts/sql-server-exploit-for-rce.md)
