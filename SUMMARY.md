@@ -3,7 +3,7 @@
 ## 0️⃣ 基础 - BASIC <a href="#basic" id="basic"></a>
 
 * [📝 MEMO.](README.md)
-* [✔️ PHP类型](basic/php-lei-xing.md)
+* [✔️ PHP](basic/php.md)
 * [✔️ JavaScript](basic/javascript.md)
 * [✔️ Node.js](basic/node.js.md)
 * [✔️ Python](basic/python.md)
