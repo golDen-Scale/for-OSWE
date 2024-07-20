@@ -1,6 +1,6 @@
 # Table of contents
 
-## 0️⃣ 基础 - BASIC <a href="#basic" id="basic"></a>
+## 0️⃣ 0️⃣ 基础 - BASIC <a href="#basic" id="basic"></a>
 
 * [📝 MEMO.](README.md)
 * [✔️ PHP](basic/php.md)
@@ -11,7 +11,7 @@
 * [✔️ .NET](basic/.net.md)
 * [✔️ Java](basic/java.md)
 
-## 1️⃣ 进阶 - INTERMEDIATE <a href="#intermediate" id="intermediate"></a>
+## 1️⃣ 1️⃣ 进阶 - INTERMEDIATE <a href="#intermediate" id="intermediate"></a>
 
 * [✔️ SQL注入 - SQL Injection](intermediate/sql-zhu-ru-sql-injection/README.md)
   * [✔️ 盲注 - Blind SQL Injection](intermediate/sql-zhu-ru-sql-injection/mang-zhu-blind-sql-injection.md)
@@ -28,7 +28,7 @@
 * [✔️ 远程代码执行 - Remote Code Execution](intermediate/yuan-cheng-dai-ma-zhi-hang-remote-code-execution.md)
 * [✔️ .NET反序列化 - .NET Deserialization](intermediate/.net-fan-xu-lie-hua-.net-deserialization.md)
 
-## 2️⃣ 高级 - ADVANCED <a href="#advanced" id="advanced"></a>
+## 2️⃣ 2️⃣ 高级 - ADVANCED <a href="#advanced" id="advanced"></a>
 
 * [✔️ 源代码分析 - Source Code Analysis](advanced/yuan-dai-ma-fen-xi-source-code-analysis.md)
 * [✔️ 魔术散列 - Magic Hashes](advanced/mo-shu-san-lie-magic-hashes.md)
@@ -57,14 +57,14 @@
 
 * [✔️ Markers](offsec/markers.md)
 
-## 5️⃣ 工具 - TOOLS <a href="#tools" id="tools"></a>
+## 5️⃣ 5️⃣ 工具 - TOOLS <a href="#tools" id="tools"></a>
 
 * [✔️ BurpSuite](tools/burpsuite.md)
 
-## 6️⃣ 漏洞 - Vulnerabilities <a href="#vulnerabilities" id="vulnerabilities"></a>
+## 6️⃣ 6️⃣ 漏洞 - Vulnerabilities <a href="#vulnerabilities" id="vulnerabilities"></a>
 
 * [Page 7](vulnerabilities/page-7.md)
 
-## 7️⃣ 自动化脚本 - Scripts <a href="#scripts" id="scripts"></a>
+## 7️⃣ 7️⃣ 自动化脚本 - Scripts <a href="#scripts" id="scripts"></a>
 
 * [✔️ 编写 SQL Server 漏洞利用程序进行 RCE](scripts/sql-server-exploit-for-rce.md)
